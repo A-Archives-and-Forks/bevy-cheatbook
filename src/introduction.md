@@ -63,33 +63,38 @@ or [Bevy Assets][bevyassets::games].
 
 ## Is this book up to date?
 
-Bevy has a very rapid pace of development, with new major releases around
-3 times a year. Every version brings a lot of changes, so keeping this book
-updated can be a major challenge.
-
-To ease the maintenance burden, the policy of the project is that the book may
-contain content for different versions of Bevy. However, mixing Bevy versions
-on the same page is not allowed.
+This book is no longer maintained. Much of the information in it is outdated and
+possibly not relevant to the current version of Bevy. Consult Bevy's [official
+website](https://bevy.org) for documentation and migration guides.
 
 At the top of every page, you will see the version it was last updated for.
-All content on that page must be relevant for the stated Bevy version.
+All content on that page is relevant for the stated Bevy version.
 
-## Support Me
+Bevy is still a new and experimental game engine! It has only been public
+since August 2020!
 
-<a href="https://github.com/sponsors/inodentry"><button class="ghsponsors-button">GitHub Sponsors</button></a>
-<a href="https://patreon.com/iyesgames"><button class="patreon-button">Patreon</button></a>
-<a href="bitcoin:bc1qaf32uqsg6mngw9g4aqc3l2jvuv46qx0zw2438p"><button class="bitcoin-button">Bitcoin</button></a>
+While improvements have been happening at an incredible pace, and development
+is active, Bevy simply hasn't yet had the time to mature.
 
-If you like this book, please consider sponsoring me. Thank you! ❤️
+*There are no stability guarantees and breaking changes happen often!*
 
-I'd like to keep improving and maintaining this book, to provide a high-quality
-independent learning resource for the Bevy community.
+Usually, it not hard to adapt to changes with new releases, but you have been
+warned!
 
 ## Support Bevy
 
 If you like the Bevy Game Engine, you should consider donating to the project.
 
 You can do that via the [Bevy Foundation][bevy::foundation].
+
+## Support Me
+
+I no longer maintain this book or actively work on anything Bevy-related.
+However, if you like the book and would like to send me a tip for having done
+this in the past, my sponsor links are still open.
+
+<a href="https://github.com/sponsors/inodentry"><button class="ghsponsors-button">GitHub Sponsors</button></a>
+<a href="bitcoin:bc1qaf32uqsg6mngw9g4aqc3l2jvuv46qx0zw2438p"><button class="bitcoin-button">Bitcoin</button></a>
 
 ## License
 
@@ -120,31 +125,3 @@ work is pending upstream review (Pull Request Open). If upstream rejects
 your contribution, you are given a period of 1 month to comply with the
 full terms of the CC BY-NC-SA 4.0 license or delete your work. If upstream
 accepts your contribution, the MIT-0 license applies.
-
-## Contributions
-
-Development of this book is hosted on [GitHub][project::cb].
-
-Please file GitHub Issues for any wrong/confusing/misleading information,
-as well as suggestions for new content you'd like to be added to the book.
-
-I generally work on the book on my own and ignore pull requests.
-
-Please do not create PRs. Or if you do, be prepared for them to be ignored
-or closed if I find that they take up too much of my time or don't help me
-enough.
-
-See the [Contributing][cb::contributing] section for all the details.
-
-## Stability Warning
-
-Bevy is still a new and experimental game engine! It has only been public
-since August 2020!
-
-While improvements have been happening at an incredible pace, and development
-is active, Bevy simply hasn't yet had the time to mature.
-
-*There are no stability guarantees and breaking changes happen often!*
-
-Usually, it not hard to adapt to changes with new releases, but you have been
-warned!
